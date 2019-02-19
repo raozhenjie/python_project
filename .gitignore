@@ -1,2 +1,6 @@
 /.idea
 /hello_python/db.sqlite3
+hello_python/__pycache__/
+hello_python/hello_python/__pycache__/
+hello_python/one/__pycache__/
+hello_python/one/migrations/__pycache__/
